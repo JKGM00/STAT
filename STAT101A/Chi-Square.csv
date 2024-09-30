@@ -1,0 +1,334 @@
+Gender,I identify as having a mental illness,Education,I am currently employed at least part-time
+Male,0,High School or GED,0
+Male,1,Some Phd,1
+Male,0,Completed Undergraduate,1
+Male,0,Some Undergraduate,0
+Male,1,Completed Undergraduate,1
+Male,0,High School or GED,1
+Male,0,Some Undergraduate,1
+Male,1,Some Undergraduate,1
+Male,0,Completed Undergraduate,1
+Male,1,Some Masters,1
+Male,0,Completed Undergraduate,0
+Male,1,Completed Undergraduate,1
+Male,1,Completed Undergraduate,1
+Male,0,Completed Masters,1
+Male,1,High School or GED,1
+Male,0,Completed Undergraduate,1
+Male,1,Some Masters,0
+Male,0,Some Undergraduate,0
+Male,1,Some Masters,1
+Male,0,Completed Phd,1
+Male,1,Some Undergraduate,1
+Male,1,Completed Masters,1
+Male,0,Completed Undergraduate,1
+Male,0,Some Undergraduate,1
+Male,0,Some Masters,1
+Male,0,Completed Masters,1
+Male,0,High School or GED,1
+Male,0,Some Undergraduate,1
+Male,0,Some Undergraduate,0
+Male,0,Completed Masters,1
+Male,0,Some Undergraduate,0
+Male,0,Completed Undergraduate,1
+Male,0,High School or GED,0
+Male,0,High School or GED,1
+Male,0,Some Undergraduate,1
+Male,1,Some Undergraduate,1
+Male,1,Completed Undergraduate,1
+Male,0,Some highschool,0
+Male,0,Some Undergraduate,1
+Male,0,High School or GED,1
+Male,1,Completed Undergraduate,0
+Male,0,Some Undergraduate,0
+Male,0,Some Undergraduate,1
+Male,0,Completed Undergraduate,1
+Male,0,High School or GED,0
+Male,0,Completed Masters,0
+Male,0,Completed Undergraduate,1
+Male,1,Completed Phd,0
+Male,1,High School or GED,1
+Male,1,Completed Undergraduate,1
+Male,1,Some Undergraduate,1
+Male,1,High School or GED,0
+Male,1,High School or GED,1
+Male,0,Completed Undergraduate,0
+Male,0,Some Undergraduate,1
+Male,0,Completed Masters,1
+Male,0,Completed Undergraduate,1
+Male,0,Some Masters,1
+Male,1,Completed Masters,1
+Male,0,Completed Undergraduate,0
+Male,0,Completed Masters,1
+Male,0,Completed Undergraduate,1
+Male,0,Completed Masters,1
+Male,0,Completed Undergraduate,0
+Male,0,Some Phd,1
+Male,0,Completed Undergraduate,1
+Male,0,Some Phd,1
+Male,0,Completed Phd,0
+Male,0,Completed Phd,1
+Male,1,Some Undergraduate,0
+Male,0,Completed Undergraduate,1
+Male,1,Completed Masters,0
+Male,0,Completed Undergraduate,1
+Male,0,Some Undergraduate,1
+Male,0,Completed Undergraduate,1
+Male,0,Some Undergraduate,1
+Male,1,Completed Masters,0
+Male,0,Completed Undergraduate,0
+Male,0,Some Undergraduate,1
+Male,0,Completed Masters,1
+Male,0,Some Masters,0
+Male,1,Some Undergraduate,0
+Male,1,Completed Phd,1
+Male,0,High School or GED,1
+Male,0,Completed Masters,0
+Male,0,High School or GED,1
+Male,0,Completed Undergraduate,0
+Male,0,Completed Masters,1
+Male,0,Completed Undergraduate,0
+Male,0,Completed Phd,0
+Male,0,High School or GED,1
+Male,0,Completed Undergraduate,1
+Male,0,Completed Masters,1
+Male,0,Completed Undergraduate,1
+Male,1,Some Undergraduate,1
+Male,0,Some Undergraduate,0
+Male,1,Completed Undergraduate,1
+Female,0,Some Undergraduate,1
+Male,0,Completed Undergraduate,1
+Female,1,Some Undergraduate,1
+Male,0,Some Undergraduate,1
+Female,0,Some Masters,0
+Male,0,Some Undergraduate,1
+Female,0,High School or GED,0
+Female,0,Completed Undergraduate,1
+Male,0,Some Undergraduate,1
+Male,1,Completed Masters,1
+Male,0,Some Undergraduate,1
+Male,0,Completed Undergraduate,1
+Female,0,High School or GED,1
+Female,0,Some highschool,0
+Female,0,Completed Undergraduate,1
+Male,0,Completed Masters,0
+Female,0,Completed Undergraduate,1
+Male,0,Completed Undergraduate,1
+Female,0,Completed Masters,1
+Female,0,Completed Undergraduate,1
+Female,0,Completed Masters,1
+Male,0,Some Undergraduate,1
+Male,0,Completed Undergraduate,1
+Female,0,High School or GED,1
+Female,0,Completed Undergraduate,0
+Female,0,Completed Masters,0
+Male,0,Some Undergraduate,1
+Male,0,Completed Undergraduate,1
+Male,0,High School or GED,0
+Female,0,Completed Undergraduate,1
+Female,0,Some Undergraduate,1
+Female,0,High School or GED,1
+Male,0,High School or GED,1
+Female,0,Completed Phd,1
+Male,0,Completed Undergraduate,0
+Male,0,Completed Undergraduate,1
+Male,0,High School or GED,0
+Female,0,High School or GED,1
+Female,0,Completed Undergraduate,0
+Female,0,Some Undergraduate,1
+Female,0,Completed Undergraduate,1
+Female,0,Completed Masters,0
+Male,0,Some Undergraduate,0
+Female,0,Completed Masters,1
+Female,0,Completed Undergraduate,1
+Female,0,Completed Masters,1
+Female,0,Some Undergraduate,0
+Female,0,High School or GED,1
+Female,0,High School or GED,1
+Male,0,Some Undergraduate,0
+Female,0,Completed Masters,1
+Male,0,High School or GED,1
+Female,1,Completed Masters,1
+Female,0,High School or GED,1
+Male,0,Some Phd,1
+Male,0,Some Undergraduate,1
+Female,0,High School or GED,1
+Male,0,Some Undergraduate,1
+Male,0,Some Undergraduate,1
+Female,0,High School or GED,1
+Female,0,Completed Masters,1
+Female,0,Completed Phd,1
+Female,0,Completed Undergraduate,0
+Female,1,Some Undergraduate,0
+Female,1,Some Undergraduate,1
+Female,0,Completed Undergraduate,1
+Female,0,Completed Undergraduate,0
+Male,0,Completed Masters,1
+Male,0,High School or GED,1
+Female,0,Completed Masters,1
+Male,0,Some Undergraduate,1
+Male,0,Some Undergraduate,1
+Male,1,High School or GED,0
+Female,0,Completed Undergraduate,1
+Male,0,Completed Masters,0
+Female,0,Some Undergraduate,0
+Male,0,Completed Undergraduate,0
+Male,0,Completed Undergraduate,0
+Male,0,Some Phd,1
+Female,0,Completed Masters,0
+Female,0,Completed Masters,1
+Female,0,Completed Undergraduate,1
+Male,1,High School or GED,0
+Male,0,Completed Undergraduate,1
+Female,0,Completed Masters,1
+Male,0,Completed Undergraduate,1
+Male,0,Completed Undergraduate,1
+Female,0,Completed Undergraduate,0
+Male,0,High School or GED,1
+Male,0,Completed Masters,0
+Female,0,Some Undergraduate,1
+Male,0,Some Masters,1
+Female,0,Some Undergraduate,1
+Female,0,Some Phd,1
+Male,0,Completed Undergraduate,0
+Female,0,Completed Undergraduate,0
+Male,0,Some Undergraduate,0
+Female,0,Completed Masters,0
+Female,0,Some Masters,1
+Female,1,Some Undergraduate,0
+Female,1,Some Undergraduate,1
+Female,0,High School or GED,1
+Male,0,Completed Masters,1
+Female,0,High School or GED,0
+Female,1,Completed Undergraduate,1
+Female,0,High School or GED,0
+Male,0,Completed Masters,1
+Female,0,High School or GED,1
+Female,0,Completed Undergraduate,1
+Female,0,Completed Undergraduate,1
+Female,1,Completed Undergraduate,1
+Female,0,Some Undergraduate,1
+Female,0,High School or GED,0
+Female,0,High School or GED,1
+Female,0,Completed Phd,1
+Female,0,Some Masters,1
+Female,0,Completed Undergraduate,1
+Female,1,Some Undergraduate,1
+Female,0,Some Masters,0
+Female,1,Completed Masters,1
+Female,0,Some Undergraduate,0
+Female,0,Completed Undergraduate,1
+Female,1,High School or GED,1
+Female,1,Some Undergraduate,1
+Female,0,Completed Undergraduate,1
+Female,0,High School or GED,1
+Female,0,Completed Undergraduate,1
+Male,0,Completed Undergraduate,1
+Female,0,High School or GED,1
+Female,1,High School or GED,0
+Male,0,Some highschool,0
+Female,0,High School or GED,1
+Female,0,Completed Undergraduate,1
+Female,1,Completed Undergraduate,0
+Female,0,Some Phd,1
+Female,1,Completed Masters,1
+Female,0,Some Undergraduate,0
+Female,0,Some highschool,1
+Female,0,Completed Undergraduate,0
+Female,1,Some Undergraduate,1
+Female,0,High School or GED,0
+Male,0,Completed Masters,0
+Female,0,High School or GED,0
+Female,0,Completed Undergraduate,0
+Female,1,Completed Masters,1
+Female,0,Some Masters,1
+Female,0,Completed Undergraduate,1
+Female,1,High School or GED,0
+Female,0,High School or GED,1
+Male,0,Completed Undergraduate,0
+Female,1,Completed Masters,0
+Female,0,Completed Undergraduate,1
+Female,0,High School or GED,1
+Female,1,Some highschool,0
+Male,0,Completed Masters,1
+Female,0,Some Undergraduate,1
+Female,0,Completed Masters,0
+Male,1,Completed Undergraduate,0
+Female,0,High School or GED,1
+Female,0,Completed Undergraduate,1
+Male,0,Completed Undergraduate,1
+Male,0,Some Undergraduate,1
+Female,0,Some Phd,1
+Female,0,Completed Undergraduate,1
+Female,1,Some Undergraduate,0
+Female,0,Some Undergraduate,0
+Female,0,High School or GED,0
+Female,1,Completed Undergraduate,0
+Female,0,Completed Undergraduate,0
+Female,1,Some Undergraduate,1
+Female,0,Completed Undergraduate,1
+Female,0,Completed Undergraduate,0
+Female,1,Completed Undergraduate,1
+Female,0,Completed Undergraduate,1
+Female,0,Some Undergraduate,1
+Female,0,Some Undergraduate,1
+Male,0,Completed Undergraduate,1
+Female,1,Some Undergraduate,0
+Female,0,High School or GED,1
+Female,1,High School or GED,1
+Male,1,Completed Masters,1
+Male,0,Some Undergraduate,1
+Female,0,Completed Masters,1
+Female,0,High School or GED,1
+Female,0,Some highschool,0
+Female,1,Completed Undergraduate,0
+Female,1,Some highschool,1
+Female,0,Completed Masters,1
+Female,1,Some Undergraduate,1
+Female,1,High School or GED,0
+Female,1,Some Undergraduate,1
+Female,1,Completed Undergraduate,1
+Female,0,High School or GED,0
+Female,0,Completed Phd,1
+Female,0,Some highschool,1
+Female,0,Some Undergraduate,0
+Female,1,Some Undergraduate,0
+Female,1,Completed Undergraduate,1
+Female,0,Completed Undergraduate,1
+Female,0,High School or GED,0
+Female,1,Some Undergraduate,1
+Female,0,Some Undergraduate,0
+Female,0,Completed Undergraduate,1
+Male,0,High School or GED,1
+Female,0,Some highschool,0
+Female,0,Completed Masters,0
+Female,1,Some Undergraduate,1
+Female,0,Completed Undergraduate,1
+Female,1,High School or GED,0
+Female,0,Some Undergraduate,1
+Female,0,Some Undergraduate,1
+Female,0,High School or GED,1
+Female,1,Some Undergraduate,0
+Female,1,Completed Undergraduate,0
+Female,0,High School or GED,0
+Female,0,Completed Undergraduate,1
+Male,0,Some Undergraduate,1
+Female,1,Completed Undergraduate,1
+Male,0,Completed Undergraduate,1
+Female,0,Completed Undergraduate,1
+Female,1,Some Undergraduate,1
+Female,0,Completed Undergraduate,1
+Female,0,Some highschool,1
+Male,0,Completed Masters,1
+Female,1,High School or GED,0
+Female,0,High School or GED,0
+Female,1,Completed Undergraduate,1
+Female,1,Completed Masters,1
+Female,0,Some Undergraduate,1
+Female,0,Completed Undergraduate,1
+Female,0,Some Undergraduate,1
+Female,1,Completed Undergraduate,0
+Female,0,High School or GED,0
+Male,0,Some Undergraduate,1
+Female,0,Some Undergraduate,1
+Female,1,Some Undergraduate,0
